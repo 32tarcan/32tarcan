@@ -6,8 +6,8 @@
 
 ✂️  I've worked with SwiftUI and UIKit 
 
-📱 I have 3 apps in AppStore 
+📱 I have 3 apps in AppStore
 
-- 📫 You can reach me at **tarcann.bahadir@gmail.com**
+📫 You can reach me at **tarcann.bahadir@gmail.com**
 
 
