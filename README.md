@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring iOS developer learning the ropes of programming with a focus on SwiftUI and UIKit. Excited to explore the possibilities of backend integration using Firebase. Seeking opportunities to grow and contribute to inspiring projects. Let's learn and create together!.</h3>
 
 
-🔭 I work at Sakans Yazilim as an iOS Engineer.
+🔭 I work at Sakans Yazilim as an iOS Developer.
 
 ✂️  I've worked with SwiftUI and UIKit 
 
